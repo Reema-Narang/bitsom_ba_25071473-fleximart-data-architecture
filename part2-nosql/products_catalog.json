@@ -1,0 +1,172 @@
+[
+  {
+    "product_id": "ELEC001",
+    "name": "Samsung Galaxy S21",
+    "category": "Electronics",
+    "price": 45000,
+    "stock": 150,
+    "specs": {
+      "ram": "8GB",
+      "storage": "128GB"
+    },
+    "reviews": [
+      {
+        "user": "U001",
+        "rating": 5,
+        "comment": "Great!",
+        "date": "2024-01-15"
+      }
+    ]
+  },
+  {
+    "product_id": "ELEC002",
+    "name": "MacBook Air M2",
+    "category": "Electronics",
+    "price": 95000,
+    "stock": 45,
+    "specs": {
+      "chip": "M2",
+      "display": "Liquid Retina"
+    },
+    "reviews": [
+      {
+        "user": "U002",
+        "rating": 4,
+        "comment": "Excellent screen.",
+        "date": "2024-02-10"
+      }
+    ]
+  },
+  {
+    "product_id": "ELEC003",
+    "name": "Noise Buds",
+    "category": "Electronics",
+    "price": 2500,
+    "stock": 300,
+    "specs": {
+      "battery": "40hrs"
+    },
+    "reviews": [
+      {
+        "user": "U003",
+        "rating": 3,
+        "comment": "Decent",
+        "date": "2024-03-05"
+      }
+    ]
+  },
+  {
+    "product_id": "ELEC004",
+    "name": "Logitech Mouse",
+    "category": "Electronics",
+    "price": 1200,
+    "stock": 500,
+    "specs": {
+      "dpi": "1000"
+    },
+    "reviews": []
+  },
+  {
+    "product_id": "ELEC005",
+    "name": "Dell Monitor",
+    "category": "Electronics",
+    "price": 15000,
+    "stock": 80,
+    "specs": {
+      "refresh_rate": "75Hz"
+    },
+    "reviews": [
+      {
+        "user": "U005",
+        "rating": 4,
+        "comment": "Good for work",
+        "date": "2024-01-20"
+      }
+    ]
+  },
+  {
+    "product_id": "CLOT001",
+    "name": "Denim Jacket",
+    "category": "Clothing",
+    "price": 3500,
+    "stock": 120,
+    "specs": {
+      "size": "L",
+      "material": "Cotton"
+    },
+    "reviews": [
+      {
+        "user": "U006",
+        "rating": 5,
+        "comment": "Perfect fit",
+        "date": "2024-04-01"
+      }
+    ]
+  },
+  {
+    "product_id": "CLOT002",
+    "name": "Running Shoes",
+    "category": "Clothing",
+    "price": 6000,
+    "stock": 200,
+    "specs": {
+      "size": "10",
+      "color": "Blue"
+    },
+    "reviews": [
+      {
+        "user": "U007",
+        "rating": 2,
+        "comment": "Sole broke",
+        "date": "2024-04-15"
+      }
+    ]
+  },
+  {
+    "product_id": "CLOT003",
+    "name": "Cotton T-Shirt",
+    "category": "Clothing",
+    "price": 800,
+    "stock": 1000,
+    "specs": {
+      "size": "M"
+    },
+    "reviews": [
+      {
+        "user": "U008",
+        "rating": 4,
+        "comment": "Soft",
+        "date": "2024-02-28"
+      }
+    ]
+  },
+  {
+    "product_id": "CLOT004",
+    "name": "Winter Parka",
+    "category": "Clothing",
+    "price": 12000,
+    "stock": 30,
+    "specs": {
+      "insulation": "Thermal"
+    },
+    "reviews": []
+  },
+  {
+    "product_id": "CLOT005",
+    "name": "Leather Belt",
+    "category": "Clothing",
+    "price": 1500,
+    "stock": 400,
+    "specs": {
+      "material": "Genuine Leather"
+    },
+    "reviews": [
+      {
+        "user": "U009",
+        "rating": 5,
+        "comment": "High quality",
+        "date": "2024-05-01"
+      }
+    ]
+  }
+]
